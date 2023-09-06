@@ -32,7 +32,7 @@ export default defineComponent({
     }
   },
   emits: {
-    changeSorting: (param: string) => true
+    changeSorting: (param: string) => param
   }
 })
 </script>

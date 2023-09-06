@@ -7,7 +7,9 @@
           <router-link to="menu" :class="{'border-b border-black': $route.name === 'menu'}">MENU</router-link>
         </li>
         <li>DELIVERY</li>
-        <li>CART</li>
+        <li>
+          <router-link to="cart" :class="{'border-b border-black': $route.name === 'cart'}">CART</router-link>
+        </li>
         <li class="border-l pl-4">LOGIN</li>
       </ul>
     </nav>

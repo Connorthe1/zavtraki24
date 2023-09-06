@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "name": "Каша рисовая с бананом и персиком",
+    "price": 100,
+    "img": "https://img.vkusvill.ru/pim/images/site_BigWebP/ea8aaa60-d610-4a78-b60e-c773295368c7.webp?1692883746.4411",
+    "size": 200,
+    "cal": 347,
+    "score": 4.9
+  },
+  {
+    "id": 1,
+    "name": "Злаковая каша с ягодами",
+    "price": 250,
+    "img": "https://img.vkusvill.ru/pim/images/site_BigWebP/cc573251-62a2-44bc-baca-8f3564ac4586.webp?1668149836.5511",
+    "size": 250,
+    "cal": 210,
+    "score": 5.0
+  },
+  {
+    "id": 2,
+    "name": "Крок Месье",
+    "price": 250,
+    "img": "https://img.vkusvill.ru/pim/images/site_BigWebP/cb9bf6fe-7000-4d0c-946e-dc872e5d81e9.webp?1656466039.9399",
+    "size": 230,
+    "cal": 261,
+    "score": 4.9
+  },
+  {
+    "id": 3,
+    "name": "Смузи «Клубника-Банан»",
+    "price": 120,
+    "img": "https://img.vkusvill.ru/pim/images/site_BigWebP/ba4cf3c8-b534-47cc-9170-6e28d4535ca1.webp?1665397029.3864",
+    "size": 300,
+    "cal": 62.3,
+    "score": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Каша овсяная молочная с яблоком и корицей",
+    "price": 140,
+    "img": "https://img.vkusvill.ru/pim/images/site_BigWebP/823b5ebb-fc5f-45ff-b35f-1ed7af98f22a.webp?1662928657.388",
+    "size": 215,
+    "cal": 123.4,
+    "score": 4.8
+  }
+]

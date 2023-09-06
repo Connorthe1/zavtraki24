@@ -1,4 +1,4 @@
-export interface Product {
+export interface CartProduct {
     id: number
     name: string,
     price: number,
@@ -6,4 +6,5 @@ export interface Product {
     size: number,
     cal: number,
     score: number,
+    count: number,
 }
